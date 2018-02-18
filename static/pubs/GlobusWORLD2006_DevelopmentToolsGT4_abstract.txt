@@ -1,0 +1,38 @@
+Title: Development Tools for GT4 Service Programming
+Type: Mini-symposium
+Session Organizer: Borja Sotomayor <borja@cs.uchicago.edu> (University of Chicago)
+Time: 90 minutes
+
+Abstract:
+Programming Grid Services with GT4 can still be a cumbersome experience for programmers, and a daunting one for newcomers to the toolkit. A lot of effort is spent dealing with low-level details unrelated to a service's domain-specific problem: writing WSDL manually, familiarizing themselves with the "resource home" approach to building services, knowing all the different commands necessary to build and deploy a service, etc. This can easily become a barrier to GT4 adoption by users who don't have the time or the disposition to deal with all the low-level minutiae of GT4 service programming. One solution to this problem is the use of high-level user-friendly development tools, such as IDEs, that enable the user to concentrate on writing domain-specific code, while spending little or no time on GT4 low-level code. The goal of this sessions is to present current efforts in that direction.
+
+The session will begin with a short introduction by the session organizer, followed by presentations by each of three groups working on GT4 development tools, and will finish with a Q&A session with the audience. More details on each of the three groups can be found below:
+
+
+INTRODUCE: AN OPEN SOURCE TOOLKIT FOR RAPID DEVELOPMENT OF STRONGLY-TYPED GRID SERVICES
+# Shannon Hastings (Ohio State University) 
+# Stephen Langella (Ohio State University)
+# Scott Oster (Ohio State University)
+# Tahsin Kurc (Ohio State University)
+# Joel Saltz (Ohio State University)
+
+In this presentation, we describe the design and implementation of a toolkit, called Introduce, to support easy development and deployment of Grid services.  Introduce aims to reduce the service development and deployment effort by hiding low level details of the Globus Toolkit and to enable the implementation of strongly-typed Grid services. Support for development of strongly-typed services, in which data types consumed and produced by a service are well-defined and published in the Grid, is necessary to enable syntactic interoperability so that two Grid endpoints (e.g., two services, or a client and a service) can interact with each other programmatically and correctly.    
+
+
+GRID DEVELOPMENT TOOLS FOR ECLIPSE
+# Thomas Friese (University of Marburg, Germany)
+# Matthew Smith (University of Marburg, Germany)
+# Bernd Freisleben (University of Marburg, Germany)
+
+In this presentation, we describe the design and implementation of the Grid Development Toolkit for Eclipse (GDT). Helping non-Grid experts to translate their domain-specific knowledge into Grid-enabled applications is a key factor in enabling more parties to collaborate in problem solving and resource sharing and form a vibrant global Grid ecosystem. The GDT project aims to extend the Eclipse platform with development tools that allow for the easy creation and debugging of Grid services and clients. In addition to Grid service-based application development, additional management functionality for Grid environments, especially service deployment support, is provided by the GDT. The GDT project follows a model-driven development approach both for its internal structure and the intended development process. This approach enables Grid service and application development on different levels of abstraction and a high degree of automation, fostering separation of concerns between application domain experts and Grid middleware experts. In addition to supporting interactive development, the GDT can be used in automated build and test environments for Grid services and applications.
+
+For more information: http://ds.informatik.uni-marburg.de/MAGE/gdt/
+
+
+MODULARIZATION OF GRID MIDDLEWARE CONCERNS WITH ASPECTJ
+
+# Thomas Cottenier (Illinois Institute of Technology / Motorola Labs)
+# Dragos Morar (Illinois Institute of Technology)
+# Tzilla Elrad (Illinois Institute of Technology)
+
+Middleware architectures based on Aspect-Oriented Software Development (AOSD) have proven successful at simplifying the implementation of J2EE-based distributed applications. AOSD is one key technology within an emerging trend in the realm of application server software development that thrives towards Inversion of Control (IoC). IoC-based containers do not impose container specific dependencies on the services they manage. AOSD enables the business logic of those services to be implemented as Plain Old Java Objects, by modularizing the implementation of resource management, lifecycle control and security concerns into distinct generic modules which can be declaratively instantiated. The application logic of Grid Services can thereby be implemented and tested independently of the target container. The presentation will illustrate how Inversion of Control can be achieved within GT4 and will discuss the implementation of GT4 resource properties, lifecycle management, notifications and security aspects in the AspectJ Java Aspect-Oriented Programming language extension.

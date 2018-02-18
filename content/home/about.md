@@ -5,16 +5,15 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
-weight = 5
-
-# List your academic interests.
-[interests]
-  interests = [
-    "Distributed Systems",
-    "Networks",
-    "Computer Science Education"
-  ]
- 
+weight = 5 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Welcome to my University of Chicago page!
+
+I am a Senior Lecturer in the Department of Computer Science, where I [teach]({{< relref "teaching.md" >}}) intro CS, software development, computer networks, and distributed systems. I am also the Academic Director of the [Masters Program in Computer Science]({{< relref "mpcs.md" >}}). 
+
+I am involved in a number of [other activities]({{< relref "other.md" >}}) on campus, such as being the faculty advisor to the department's student organization and coaching our [ICPC]({{< relref "other.md#icpc" >}}) teams.
+
+I am not actively involved in research at the moment, but my [research]({{< relref "other.md" >}}) has primarily focused on resource allocation on distributed systems using virtualization. I have [published]({{< relref "publications" >}}) a number of papers on those subjects and, more recently, I have also published some papers on Computer Science Education.
+
+

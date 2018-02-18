@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" >
+<head>
+	<title>Borja Sotomayor -- Dissertation</title>
+	<link href="../borja.css" type="text/css" rel="stylesheet"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4920033-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</head>
+
+<body>
+
+<div id="content">
+
+
+<div class="center">
+<div class="navbar">
+<ul>
+
+<li><a href="../index.html">Home</a></li>
+
+<li><a href="../about.html">About me</a></li>
+<li><a href="../cv.html">CV</a></li>
+<li><a href="../research.html">Research</a></li>
+<li><a href="../pubs.html">Publications</a></li>
+<li><a href="../teaching.html">Teaching</a></li>
+<li><a href="../opensource.html">Open Source</a></li>
+<li><a href="../other.html">Other</a></li>
+<ul>
+</div>
+</div>
+<div class="backlink">
+<a href="index.html">Borja Sotomayor, PhD Candidate, Department of Computer Science, University of Chicago</a>
+</div>
+<h1 class="pageheader">Dissertation</h1>
+
+<div class="center">
+<p>
+<em>"Provisioning Computational Resources Using Virtual Machines and Leases"</em><br/>
+Borja Sotomayor, University of Chicago, August 2010<br/>&nbsp;<br/>
+<a href="borja_sotomayor_dissertation_updated_20100825.pdf" onClick="javascript: pageTracker._trackPageview('dissertation/dissertation-updated.pdf');"><img src="../pdficon.gif" width="17" height="17" class="pdficon" alt="Download in PDF format"> Updated</a> (08/25/2010), with errata corrected (5.8 MB)<br/>&nbsp;<br/>
+<a href="borja_sotomayor_dissertation_original.pdf" onClick="javascript: pageTracker._trackPageview('dissertation/dissertation-original.pdf');"><img src="../pdficon.gif" width="17" height="17" class="pdficon" alt="Download in PDF format">
+Original</a>, as published (5.8 MB)
+
+<p>
+</div>
+<div id="text">
+
+<p>My dissertation deals, in a nutshell, with how to schedule virtual machines in a distributed system (such as a cluster) to support multiple resource provisioning scenarios (such as the combination of best-effort provisioning and advance reservations) simultaneously and efficiently. For more details, read the <a href="abstract.txt" onClick="javascript: pageTracker._trackPageview('dissertation/abstract.txt');">abstract</a> or Chapter 1 ("Introduction") of the dissertation. The introduction provides a high-level overview of the research questions I address in my doctoral work, and should (hopefully) be readable by any technical layperson.</p>
+
+<p>Besides the PDF of my dissertation, in this page you will find a list of errata and all the data and scripts necessary to reproduce the results presented in my dissertation (the process to do this is described in Appendix A of the text). The open source project developed during my PhD, <a href="http://haizea.cs.uchicago.edu/" onClick="javascript: pageTracker._trackPageview('outgoing/haizea.cs.uchicago.edu');">Haizea</a>, lives on a separate page.</p>
+
+<p>If you have any questions on my dissertation, or are interested in addressing some of the future work described in it, please don't hesitate to <a href="http://people.cs.uchicago.edu/~borja/">contact me</a>.</p>
+
+
+<h2><a name="data"></a>Experimental data</h2>
+
+<p>The following are the files referenced in Appendix A of the dissertation:</p>
+
+<ul>
+
+<li><a href="dissertation-exp.tgz" onClick="javascript: pageTracker._trackPageview('dissertation/dissertation-exp.tgz');">Scripts to reproduce simulated results</a></li>
+
+<li><a href="raw_data_dissertation.tar" onClick="javascript: pageTracker._trackPageview('dissertation/raw_data_dissertation.tar');">Experimental data</a> [257 MB]</li>
+
+<li><a href="dissertation-exp-nonsim.tgz" onClick="javascript: pageTracker._trackPageview('dissertation/dissertation-exp-nonsim.tgz');">Scripts and data to reproduce non-simulated results</a> [10.3 MB]</li>
+
+</ul>
+
+<h2><a name="errata"></a>Errata</h2>
+
+<h3>Chapter 5 - Scheduling Disk Image Transfers</h3>
+
+<ul>
+<li><em>Page 100 - Figure 6.2</em>. An older version of the figure was mistakenly used that was missing three data points (for the experiments with "small" nodes, "1h" leases, in configurations "VM-MULT", "VM-REUSE-UNIFORM", and "VM-REUSE-SKEWED"). Compare <a href="figure-6.2_original.pdf">original figure</a> with <a href="figure-6.2_fixed.pdf">correct figure</a>.
+</ul>
+
+<h3>Appendix A - Reproducibility of Results</h3>
+<ul>
+<li><em>Page 154</em>. The last sentence in the page:
+
+<blockquote>
+The configuration files Annotation files are generated in the configs diractory:
+</blockquote>
+
+Should read:
+
+<blockquote>
+The configuration files are generated in the configs/4pricing directory:
+</blockquote>
+
+The list of files in the following page should show the files in the "configs/4pricing" directory, not in the "configs/" directory.</li>
+
+<li><em>Page 160</em>. The list of configuration files should show them in the "configs/4pricing" directory, not in the "configs/" directory.</li>
+
+
+<li><em>Page 162</em>. The following text still contains placeholders:
+
+<blockquote>
+<ul>
+<li><tt>data/1scheduling+2imagetransfer/</tt>: Should contain XXX files.</li>
+<li><tt>data/3suspendresume/</tt>: Should contain XXX files.</li>
+</ul>
+</blockquote>
+
+It should read:
+
+<blockquote>
+<ul>
+<li><tt>data/1scheduling+2imagetransfer/</tt>: Should contain 450 files.</li>
+<li><tt>data/3suspendresume/</tt>: Should contain 148 files.</li>
+</ul>
+</blockquote>
+
+<li><em>Page 176</em>. In the arguments to the <tt>run.py</tt> the <tt>run.local</tt> and <tt>run.global</tt> should be called <tt>torun.local</tt> and <tt>torun.global</tt>, respectively.</li>
+
+</li>
+</ul>
+
+
+</div>
+<div class="center">
+<div class="navbar">
+<ul>
+
+<li><a href="../index.html">Home</a></li>
+
+<li><a href="../about.html">About me</a></li>
+<li><a href="../cv.html">CV</a></li>
+<li><a href="../research.html">Research</a></li>
+<li><a href="../pubs.html">Publications</a></li>
+<li><a href="../teaching.html">Teaching</a></li>
+<li><a href="../opensource.html">Open Source</a></li>
+<li><a href="../other.html">Other</a></li>
+<ul>
+</div>
+</div>
+<div class="backlink">
+<a href="index.html">Borja Sotomayor, PhD Candidate, Department of Computer Science, University of Chicago</a>
+</div>
+</div>
+
+
+</body>
+
+</html>
+
+

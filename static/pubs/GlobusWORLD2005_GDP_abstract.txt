@@ -1,0 +1,30 @@
+The lack of didactic documentation within the Globus community has
+become an important barrier for newcomers to Globus technologies, who
+find that documentation in almost every aspect of Globus technologies
+(installation, programming, administration, etc.) is scarce and,
+generally, either too technical or too abstract. The Globus Alliance
+wants to address this issue by creating a documentation framework to:
+
+(a) stimulate the creation of documentation by members of the Globus
+community,
+(b) coordinate all the different documentation efforts carried out by
+members of the Globus community, and
+(c) make documentation easily accessible to all Globus users (from
+beginners to experts).
+
+To accomplish this, we have created a PostNuke website that will act as
+a central repository of Globus-related documentation in such a way that
+the Globus community will have a "single point of access" to
+documentation. The website contains organized collections of links, FAQs
+and articles. Although most of the contents will be written by GDP
+administrators, any Globus user can easily contribute links or FAQs. A
+Wiki section also allows users to quickly contribute documentation
+tidbits (e.g. a message thread from one of the mailing lists) which can
+later on be polished into FAQ or article format by one of the GDP
+administrators.
+
+At the time of writing this abstract, the GDP website is still under
+construction, but we plan for it to be fully functional on time for
+GlobusWORLD2005. A preliminary version can be accessed at the following URL:
+
+    http://gdp.globus.org/

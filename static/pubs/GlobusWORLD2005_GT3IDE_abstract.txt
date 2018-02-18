@@ -1,0 +1,17 @@
+Title: "GT3IDE: An Eclipse plug-in for Globus Toolkit programmers"
+
+Authors:
+Borja Sotomayor <borja@cs.uchicago.edu> (University of Chicago)
+Marcos López <marcosl@euskalnet.net> (Universidad de Deusto)
+Txus Sánchez <txusin@euskalnet.net> (Universidad de Deusto)
+
+Abstract:
+Programming with the Globus Toolkit is currently performed mainly from a command-line interface. Although the use of Java friendly editors (UltraEdit, Kate, EMACS, etc.) and Ant can ease the programmer's interaction with the toolkit, there is currently no Integrated Development Environment (IDE) specifically suited to the needs of GT programmers.
+
+The GT3IDE project aims to develop an Eclipse 3 (http://www.eclipse.org/) plug-in that will allow Globus Toolkit programmers to develop Grid Services easily, by providing an environment which seamlessly integrates all the steps from coding to deployment. The project, currently in alpha phase, already provides an easy and intuitive interface that allows the user to concentrate on writing the Java implementation of the Grid Service while the rest of the code (GWSDL, WSDD, namespace mappings, etc.) is automatically generated based on the Java implementation or on options selected by the user through a GUI. Short-term goals for the project include adding automatic deployment of Grid Services and debugging of remote services from the Eclipse GUI. Long-term goals include adding support for collaborative technologies (e.g. CVS), service profiling, and adding more graphical controls to define structures such as Service Data Elements.
+
+At the time of writing this abstract, the project cannot be considered complete but is being actively developed as an open source effort (under a BSD license). Furthermore, despite the project's misleading name, we will begin to add support for GT4 and WSRF as soon as GT4 is stable enough.
+
+For more information on the plugin, or to download the plugin itself, please visit:
+
+    http://gt3ide.sourceforge.net/

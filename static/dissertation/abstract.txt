@@ -1,0 +1,94 @@
+
+Provisioning Computational Resources Using Virtual Machines and Leases
+
+                        Borja Sotomayor
+                     Doctoral Dissertation
+                   The University of Chicago
+                          August 2010
+
+         http://people.cs.uchicago.edu/~borja/dissertation/
+
+
+                           ABSTRACT
+
+The need for computational resources has, over the years, become a
+fundamental requirement in both science and industry. In many cases,
+this need is transient: a user may only require computational
+resources for the duration of a well-defined task. For example, a
+scientist could require a large number of computers to run a
+simulation for just a few hours, but might not need those computers at
+any specific time (as long as they are made available in a reasonable
+amount of time). A college instructor may want to make a cluster of
+computers available to students during the course's lab sessions, at
+very specific times during the week, and with a specific software
+configuration. A telecommunications company could possess an existing
+infrastructure that hosts a number of websites, but may need to
+supplement that infrastructure with additional resources during
+periods of unforeseen increased web traffic, meaning those resources
+have to made available right away with very little advance notice.
+
+These transient resource usage scenarios pose the problem of how to
+provision shared computational resources efficiently. This problem has
+been studied for decades, resulting in approaches that tend to be
+highly specialized to specific usage scenarios. For example, the
+problem of how to run multiple jobs on a shared cluster has been
+extensively studied, resulting in job management systems systems like
+Torque/Maui, Sun Grid Engine, LoadLeveler, and many others, that can
+queue and prioritize job requests efficiently (in these systems,
+efficiency is defined in terms of a variety of metrics, including
+waiting times and resource utilization). Such a system would meet the
+requirements of the scientist wanting to run simulations during a few
+hours but, on the other hand, the college instructor and the
+telecommunications company mentioned above would be ill-served by a
+job management system and the efficiency metrics typically used in job
+management. Conversely, other resource provisioning approaches are not
+particularly well suited for job-oriented computations.
+
+Thus, there is no general solution that can provision resources
+meeting the requirements of different usage scenarios simultaneously,
+such as those mentioned above, reconciling the different measures of
+efficiency in each scenario. More specifically, much of my work is
+motivated by the combination of best-effort resource requirements,
+where a user needs computational resources but is willing to wait for
+them (possibly setting a deadline), and advance reservation resource
+requirements, where the resources must be available at a specific
+time. In the former, efficiency is typically measured in terms of
+waiting times (or similar metrics such as turnaround times or
+slowdowns) or throughput, while the latter is usually concerned with
+providing the requested resources at exactly the agreed-upon times
+without interruption, and both are concerned with maximizing the use
+of hardware resources and possibly monetary profit. Although both
+best-effort and advance reservation provisioning have been studied
+separately, the combination of both is known to produce utilization
+problems and is discouraged in practice.
+
+In this dissertation I develop a resource provisioning model
+and architecture that can support multiple resource provisioning
+scenarios efficiently and simultaneously, with an initial focus on the
+best-effort and advance-reservation cases mentioned above, and arguing
+in favour of a lease-based model, where leases are implemented as
+virtual machines (VMs). The main contributions of this dissertation
+are:
+
+ * A resource provisioning model and architecture that uses leases as
+a fundamental abstraction and virtual machines as an implementation
+vehicle.
+
+ * Lease scheduling algorithms that mitigate the utilization problems
+typically encountered when scheduling advance reservations.
+
+ * A model for the various overheads involved in using virtual
+machines, and algorithms that (a) allow lease terms to be met even in
+the presence of this overhead, and (b) mitigate this overhead in some
+cases.
+
+ * Price-based policies for lease admission, showing that an adaptive
+pricing strategy can, in some cases, generate more revenue than other
+baseline pricing strategies, but does so by using fewer resources,
+thus giving resource providers more excess capacity that can
+potentially be sold to other users.
+
+As a technological contribution, I also present Haizea
+(http://haizea.cs.uchicago.edu/), an open source reference
+implementation of the architecture and algorithms described in this
+dissertation.
