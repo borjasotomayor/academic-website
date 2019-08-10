@@ -12,7 +12,7 @@ I currently teach the following classes:
 
 This course is the first in a three-quarter sequence that teaches computational thinking and skills to students in the sciences, mathematics, economics, etc. The course will cover abstraction and decomposition, simple modeling, basic algorithms, and programming in Python. Applications from a wide variety of fields serve both as examples in lectures and as the basis for programming assignments. In recent offerings, students have written programs to simulate a model of housing segregation, determine the number of machines needed at a polling place, and analyze tweets from presidential debates.
 
-For more details, see the [CMSC 12100 website](https://classes.cs.uchicago.edu/archive/2017/fall/12100-1/).
+For more details, see the [CMSC 12100 website](https://classes.cs.uchicago.edu/archive/2018/fall/12100-1/).
 
 **CMSC 23300 - Networks and Distributed Systems** (2011 -- ...)
 
