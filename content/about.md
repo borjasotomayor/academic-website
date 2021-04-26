@@ -6,7 +6,7 @@ lastmod = "2018-02-18T00:00:00Z"
 About Me
 ========
 
-I am a Senior Lecturer in the Department of Computer Science, where I [teach]({{< relref "teaching.md" >}}) intro CS, software development, computer networks, and distributed systems. I am also the Director of the [Masters Program in Computer Science]({{< relref "mpcs.md" >}}). 
+I am an Associate Senior Instructional Professor in the Department of Computer Science, where I [teach]({{< relref "teaching.md" >}}) intro CS, software development, computer networks, and distributed systems. I am also the Director of the [Masters Program in Computer Science]({{< relref "mpcs.md" >}}). 
 
 I am involved in a number of [other activities]({{< relref "other.md" >}}) on campus, such as being the faculty advisor to the department's student organizations.
 
