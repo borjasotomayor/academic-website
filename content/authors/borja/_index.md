@@ -34,6 +34,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/borjasotomayor
+- icon: mastodon
+  icon_pack: fab
+  link: https://tech.lgbt/@borja
 - icon: google-scholar
   icon_pack: ai
   link: http://bit.ly/google-scholar-borja
