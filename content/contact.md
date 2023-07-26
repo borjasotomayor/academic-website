@@ -1,6 +1,5 @@
 +++
-date = "2018-02-17T00:00:00Z"
-lastmod = "2018-09-24T00:00:00Z"
+share = false
 +++
 
 Contact
@@ -12,4 +11,4 @@ On the University of Chicago campus, I am located in [Crerar](https://maps.uchic
 
 *Current MPCS students:* Please send your questions to [masters-admin@cs.uchicago.edu](mailto:masters-admin@cs.uchicago.edu). This address reaches several people, including myself, and it is more likely that you will receive a prompt reply through that address than if you e-mail me directly.
 
-*Estudiantes hispanoparlantes:* Si preferís comunicaros conmigo en español, por favor no dudeis en hacerlo. Aunque utilizo el inglés por defecto aqui en la Universidad de Chicago, mi lengua materna es el español.
+🇪🇸 *Estudiantes hispanoparlantes* 🇪🇸  Si preferís comunicaros conmigo en español, por favor no dudeis en hacerlo. Aunque utilizo el inglés por defecto aqui en la Universidad de Chicago, mi lengua materna es el español.

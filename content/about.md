@@ -1,12 +1,11 @@
 +++
-date = "2018-02-17T00:00:00Z"
-lastmod = "2018-02-18T00:00:00Z"
+share = false
 +++
 
 About Me
 ========
 
-I am an Associate Senior Instructional Professor in the Department of Computer Science, where I [teach]({{< relref "teaching.md" >}}) intro CS, software development, computer networks, and distributed systems. I am also the Director of the [Masters Program in Computer Science]({{< relref "mpcs.md" >}}). 
+I am a Senior Instructional Professor in the Department of Computer Science, where I [teach]({{< relref "teaching.md" >}}) intro CS, software development, and computer networks. I am also the Director of the [Masters Program in Computer Science]({{< relref "mpcs.md" >}}). 
 
 I am involved in a number of [other activities]({{< relref "other.md" >}}) on campus, such as being the faculty advisor to the department's student organizations.
 
@@ -16,7 +15,7 @@ I got my PhD in Computer Science from the University of Chicago in 2010, where I
 
 I am originally from [Bilbao](https://en.wikipedia.org/wiki/Bilbao), a wonderful city in the [Basque Country](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)) region of Spain. I went to college there, and have a degree in *Ingeniería en Informática* (equivalent to a BS/MS in Computer Engineering) from the [University of Deusto](http://www.deusto.es/).
 
-Outside of work, I enjoy watching movies, travelling, hiking, following US politics, cooking Spanish food, [designing t-shirts]({{< relref "t-shirts.md" >}}), and [tweeting](https://twitter.com/borjasotomayor) about all of the above.
+Outside of work, I enjoy watching movies, travelling, hiking, following US politics, [cooking Spanish food](https://borja.recipes/), and [designing t-shirts]({{< relref "t-shirts.md" >}}).
 
 
 

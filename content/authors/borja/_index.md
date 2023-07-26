@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Senior Instructional Professor
+role: Senior Instructional Professor
 
 # Organizations/Affiliations
 organizations:
@@ -31,9 +31,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/borjasotomayor
+  link: https://www.linkedin.com/in/borja-sotomayor/
 - icon: mastodon
   icon_pack: fab
   link: https://tech.lgbt/@borja
@@ -58,10 +58,10 @@ email: ""
 
 Welcome to my University of Chicago page!
 
-I am an Associate Senior Instructional Professor in the Department of Computer Science, where I [teach]({{< ref "teaching" >}}) intro CS, software development, computer networks, and distributed systems. I am also the Director of the [Masters Program in Computer Science]({{< relref "mpcs.md" >}}). 
+I am a Senior Instructional Professor in the Department of Computer Science, where I [teach]({{< ref "teaching" >}}) intro CS, software development, and computer networks. I am also the Director of the [Masters Program in Computer Science]({{< relref "mpcs.md" >}}). 
 
 I am involved in a number of [other activities]({{< relref "other.md" >}}) on campus, such as being the faculty advisor to the department's student organizations.
 
 I am not actively involved in research at the moment, but my [research]({{< relref "research.md" >}}) has primarily focused on resource allocation on distributed systems using virtualization. I have [published]({{< relref "publications" >}}) a number of papers on those subjects and, more recently, I have also published some papers on Computer Science Education.
 
-I also design [t-shirts]({{< relref "t-shirts" >}}).
+I also design [t-shirts]({{< relref "t-shirts" >}}) and enjoy cooking Spanish food (check out my recipes at [Borja's Tasty Bytes](https://borja.recipes/)).

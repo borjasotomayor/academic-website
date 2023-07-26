@@ -1,6 +1,5 @@
 +++
-date = "2018-02-17T00:00:00Z"
-lastmod = "2018-02-18T00:00:00Z"
+share = false
 +++
 
 Publications
