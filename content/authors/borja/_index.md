@@ -56,6 +56,10 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 ---
 
+{{< notice note >}}
+I recently moved to a new office on campus. I am now located in Ryerson 162-B.
+{{< /notice >}}
+
 Welcome to my University of Chicago page!
 
 I am a Senior Instructional Professor in the Department of Computer Science, where I [teach]({{< ref "teaching" >}}) intro CS, software development, and computer networks. I am also the Director of the [Masters Program in Computer Science]({{< relref "mpcs.md" >}}). 
