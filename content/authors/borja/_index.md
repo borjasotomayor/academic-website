@@ -20,7 +20,7 @@ organizations:
   url: "https://www.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Borja Sotomayor is a Senior Instructional Professor in Computer Science at the University of Chicago, and Director of the Masters Program in Computer Science.
+bio: Borja Sotomayor is a Senior Instructional Professor in Computer Science at the University of Chicago.
 
 
 # Social/Academic Networking
@@ -71,7 +71,7 @@ email: ""
 
 Welcome to my University of Chicago page!
 
-I am a Senior Instructional Professor in the Department of Computer Science, where I [teach]({{< ref "teaching" >}}) intro CS, software development, and computer networks. I am also the Director of the [Masters Program in Computer Science]({{< relref "mpcs.md" >}}). 
+I am a Senior Instructional Professor in the Department of Computer Science, where I [teach]({{< ref "teaching" >}}) intro CS, software development, and computer networks.
 
 I am involved in a number of [other activities]({{< relref "other.md" >}}) on campus, such as being the faculty advisor to the department's student organizations.
 
