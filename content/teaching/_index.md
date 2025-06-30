@@ -1,5 +1,6 @@
 +++
 share = false
+readingtime = false
 +++
 
 Teaching

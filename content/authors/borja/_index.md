@@ -20,13 +20,26 @@ organizations:
   url: "https://www.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Borja Sotomayor is an Associate Senior Instructional Professor in Computer Science at the University of Chicago, and Director of the Masters Program in Computer Science.
+bio: Borja Sotomayor is a Senior Instructional Professor in Computer Science at the University of Chicago, and Director of the Masters Program in Computer Science.
 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:borja@uchicago.edu'
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/borjasotomayor
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/borja-sotomayor/
+  - icon: academicons/google-scholar
+    url: http://bit.ly/google-scholar-borja
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/borjasotomayor.bsky.social  
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -55,10 +68,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 ---
-
-{{< notice note >}}
-I recently moved to a new office on campus. I am now located in Ryerson 162-B.
-{{< /notice >}}
 
 Welcome to my University of Chicago page!
 
