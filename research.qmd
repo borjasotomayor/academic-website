@@ -1,13 +1,11 @@
-+++
-share = false
-+++
-
-Research
-========
+---
+title: "Research"
+title-block-banner: false
+---
 
 I am not actively involved in research at the moment, but my research interests have mostly revolved around virtual machine-based resource provisioning models (where "resource" includes hardware, software, and time) using a leasing abstraction. Most of my research work was relevant to Infrastructure-as-a-Service (IaaS) cloud computing, since IaaS clouds often use virtual machines to provision computational resources and my work deals with how to (1) map heterogeneous user requests (best effort, advance reservations, immediate availability, etc.) to virtual machines and (2) provision those virtual machines efficiently. Since a lot of my work involves writing resource scheduling code, my secondary interests include parallel job scheduling and scheduling performance metrics.
 
-You can read more about this work in my [publications]({{< relref "publications.md" >}}) (and in my [dissertation]({{< relref "dissertation.md" >}}))
+You can read more about this work in my [publications](publications.qmd) (and in my [dissertation](dissertation.qmd))
 
 Since I have a teaching-focused position, my more recent publications have been in the field of Computer Science Education. I have also become more interested laterly in classical distributed systems problems, specially revolving around distributed consensus, but I have not done any work in that area.
 

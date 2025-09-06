@@ -1,9 +1,7 @@
-+++
-share = false
-+++
-
-Other Activities
-================
+---
+title: "Other Activities"
+title-block-banner: false
+---
 
 Student Activities
 ------------------

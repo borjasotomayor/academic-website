@@ -1,10 +1,7 @@
-+++
-share = false
-readingtime = false
-+++
-
-Teaching
-========
+---
+title: "Teaching"
+title-block-banner: false
+---
 
 I currently teach the following classes:
 
