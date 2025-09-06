@@ -33,27 +33,34 @@ website:
 
     right: 
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/borjasotomayor
+      - icon: linkedin
+        href: https://www.linkedin.com/in/borja-sotomayor/
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
+      - text: "{{< ai google-scholar >}}"
+        href: http://bit.ly/google-scholar-borja
+        target: _blank
+      - icon: bluesky
+        href: https://bsky.app/profile/borjasotomayor.bsky.social
+        target: _blank
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Built on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "Borja Sotomayor &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Built with [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/borjasotomayor
+      - icon: linkedin
+        href: https://www.linkedin.com/in/borja-sotomayor/
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
+      - text: "{{< ai google-scholar >}}"
+        href: http://bit.ly/google-scholar-borja
         target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+      - icon: bluesky
+        href: https://bsky.app/profile/borjasotomayor.bsky.social
+        target: _blank
   
   search:
     location: navbar
@@ -70,10 +77,7 @@ website:
   site-url: "https://people.cs.uchicago.edu/~borja/"
   
   google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
-
-bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
+    tracking-id: "G-LZW2P607JZ"
 
 format:
   html:

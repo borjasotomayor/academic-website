@@ -14,8 +14,8 @@ about:
   image-width: 70%
   links:
     - icon: envelope
-      text: E-mail
-      href: mailto:borja@uchicago.edu
+      text: Contact
+      href: contact.qmd
     - icon: github
       text: GitHub
       href: https://github.com/borjasotomayor
@@ -32,8 +32,14 @@ about:
       target: _blank
 ---
 
+::: {.callout-note}
+I am on research leave during the 2025/26 school year, and will be based in New York City during that time. 
+:::
+
 :::{#hero-heading}
 
+
+::: {style="font-size: 120%;"}
 Welcome to my University of Chicago page!
 
 I am a Senior Instructional Professor in the Department of Computer Science, where I [teach](teaching.qmd) intro CS, software development, and computer networks.
@@ -43,5 +49,6 @@ I am involved in a number of [other activities](other.qmd) on campus, such as be
 I am not actively involved in research at the moment, but my [research](research.qmd) has primarily focused on resource allocation on distributed systems using virtualization. I have [published](publications.qmd) a number of papers on those subjects and, more recently, I have also published some papers on Computer Science Education.
 
 I also design [t-shirts](tshirts.qmd) and enjoy cooking Spanish food (check out my recipes at [Borja's Tasty Bytes](https://borja.recipes/)).
+:::
 
 :::
