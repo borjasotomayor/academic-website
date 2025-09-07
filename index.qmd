@@ -1,0 +1,52 @@
+---
+title: "Borja Sotomayor"
+subtitle: <b>Senior Instructional Professor</b><br/>Department of Computer Science<br/>University of Chicago
+description-meta: "Borja Sotomayor's Academic Website"
+image: "files/images/borja.jpg"
+page-navigation: false
+toc: false
+#sidebar: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: Contact
+      href: contact.qmd
+    - icon: github
+      text: GitHub
+      href: https://github.com/borjasotomayor
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/borja-sotomayor/
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: http://bit.ly/google-scholar-borja
+      target: _blank
+    - icon: bluesky
+      text: BlueSky
+      href: https://bsky.app/profile/borjasotomayor.bsky.social
+      target: _blank
+---
+
+::: {.callout-note}
+::: {style="font-size: 120%;"}
+I am on research leave during the 2025/26 school year, and will be based in New York City during that time. 
+:::
+:::
+
+:::{#hero-heading}
+
+
+::: {style="font-size: 120%;"}
+Welcome to my University of Chicago page!
+
+{{< include _about.qmd >}}
+
+I also design [t-shirts](tshirts.qmd) and enjoy cooking Spanish food (check out my recipes at [Borja's Tasty Bytes](https://borja.recipes/)).
+:::
+
+:::

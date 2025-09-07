@@ -1,0 +1,97 @@
+project:
+  type: website
+  output-dir: build
+
+# Meta
+description-meta: "Borja Sotomayor's Academic Website"
+author-meta: "Borja Sotomayor"
+
+website:
+  title: "Borja Sotomayor"
+  description: "Borja Sotomayor's Academic Website"
+ 
+  navbar:
+    background: light  # You can change the background color here
+
+    left:   # You can comment out all navigation items here if you just like to keep the index page only
+#      - text: Home
+#        href: index.qmd
+      - text: About me
+        href: about.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Other Activities
+        href: other.qmd
+      - text: T-Shirts
+        href: tshirts.qmd
+      - text: Contact
+        href: contact.qmd       
+
+    right: 
+      - icon: github
+        href: https://github.com/borjasotomayor
+      - icon: linkedin
+        href: https://www.linkedin.com/in/borja-sotomayor/
+        target: _blank
+      - text: "{{< ai google-scholar >}}"
+        href: http://bit.ly/google-scholar-borja
+        target: _blank
+      - icon: bluesky
+        href: https://bsky.app/profile/borjasotomayor.bsky.social
+        target: _blank
+  
+  page-navigation: true
+  
+  page-footer: 
+    left: "Borja Sotomayor &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Built with [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    right:  
+      - icon: github
+        href: https://github.com/borjasotomayor
+      - icon: linkedin
+        href: https://www.linkedin.com/in/borja-sotomayor/
+        target: _blank
+      - text: "{{< ai google-scholar >}}"
+        href: http://bit.ly/google-scholar-borja
+        target: _blank
+      - icon: bluesky
+        href: https://bsky.app/profile/borjasotomayor.bsky.social
+        target: _blank
+  
+  search:
+    location: navbar
+    type: textbox
+  
+  reader-mode: false
+
+  draft-mode: unlinked
+  
+  repo-url: https://github.com/borjasotomayor/academic-website
+  
+  open-graph: true
+    
+  site-url: "https://people.cs.uchicago.edu/~borja/"
+  
+  google-analytics:
+    tracking-id: "G-LZW2P607JZ"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    link-external-filter: '^(?:http:|https:)\/\/people\.cs\.uchicago\.edu\/~borja'
+    include-in-header: "files/includes/_academic.qmd"
+

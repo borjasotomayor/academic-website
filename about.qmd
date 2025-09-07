@@ -1,0 +1,12 @@
+---
+title: "About Me"
+title-block-banner: false
+---
+
+{{< include _about.qmd >}}
+
+I got my PhD in Computer Science from the University of Chicago in 2010, where I wrote my dissertation on *Provisioning Computational Resources Using Virtual Machines and Leases* under the guidance of [Ian Foster](https://www.anl.gov/profile/ian-t-foster).
+
+I am originally from [Bilbao](https://en.wikipedia.org/wiki/Bilbao), a wonderful city in the [Basque Country](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)) region of Spain. I went to college there, and have a degree in *Ingeniería en Informática* (equivalent to a BS/MS in Computer Engineering) from the [University of Deusto](http://www.deusto.es/).
+
+Outside of work, I enjoy watching movies, travelling, hiking, following US politics, [cooking Spanish food](https://borja.recipes/), and [designing t-shirts](tshirts.qmd).

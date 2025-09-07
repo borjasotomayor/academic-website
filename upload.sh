@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rsync -azP ./public/ linux.cs.uchicago.edu:~/html/
+rsync -azP ./build/ linux.cs.uchicago.edu:~/html/

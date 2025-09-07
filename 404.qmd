@@ -1,0 +1,9 @@
+---
+title: Page Not Found
+---
+
+The page you requested cannot be found.
+
+You may want to try using the search bar (in the upper-right corrner of this page) to find the content you're looking for.
+
+If you still cannot find it, please feel free to [contact me](contact.qmd).

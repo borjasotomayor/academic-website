@@ -1,0 +1,61 @@
+---
+title: "Publications"
+description-meta: "Borja Sotomayor's publications"
+title-block-banner: false
+---
+
+See citations and other information on my [Google Scholar page](http://bit.ly/google-scholar-borja)
+
+## Refereed Papers
+
+- P.H. Fröhlich and **B. Sotomayor**. *Practical Systems Programming in Computer Science Education (Abstract Only)*. In *Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education (SIGCSE '17)*.
+
+- **B. Sotomayor** and A. Shaw. *chidb: Building a Simple Relational Database System from Scratch*. 47th ACM Technical Symposium on Computing Science Education ([SIGCSE '16](http://sigcse2016.sigcse.org/)), March 2–5, 2016, Memphis, USA. [PDF](files/pubs/sigcse2016-chidb.pdf)
+
+- A. Bloomfield and **B. Sotomayor**. *A Programming Contest Strategy Guide*. 47th ACM Technical Symposium on Computing Science Education ([SIGCSE '16](http://sigcse2016.sigcse.org/)), March 2–5, 2016, Memphis, USA. [PDF](files/pubs/sigcse2016-programming-contests.pdf)
+
+- B. Liu, R. Madduri, **B. Sotomayor**, K. Chard, L. Lacinski, U. Dave, J. Li, C. Liu, I. Foster. *Cloud-based bioinformatics workflow platform for large-scale next-generation sequencing analyses*. [Journal of Biomedical Informatics](http://www.j-biomed-inform.com/article/S1532-0464(14)00007-0/abstract?cc=y), Vol. 49 (June 2014), pp. 119–133. [PDF](https://pdfs.semanticscholar.org/e0a6/22bd6e897e8597d82b379486e36133e0838d.pdf)
+
+- B. Liu, **B. Sotomayor**, R. Madduri, K. Chard, I. Foster. *Deploying Bioinformatics Workflows on Clouds with Galaxy and Globus Provision*. [DataCloud 2012](http://www.cse.buffalo.edu/faculty/tkosar/datacloud2012/), Nov 11, 2012, Salt Lake City, USA. [PDF](http://www.cse.buffalo.edu/faculty/tkosar/datacloud2012/papers/datacloud2012_paper_6.pdf)
+
+- **B. Sotomayor**, R. Santiago Montero, I. Martín Llorente, I. Foster. *Virtual Infrastructure Management in Private and Hybrid Clouds*. [IEEE Internet Computing](http://www.computer.org/internet), Vol. 13, No. 5, pp. 14–22, Sep/Oct 2009. [PDF](http://www.mcs.anl.gov/uploads/cels/papers/P1649.pdf)
+
+- **B. Sotomayor**, R. Santiago Montero, I. Martín Llorente, I. Foster. *Resource Leasing and the Art of Suspending Virtual Machines*. [HPCC-09](http://www.sersc.org/HPCC2009), June 25–27, 2009, Seoul, Korea. [PDF](files/pubs/hpcc09-sotomayor.pdf)
+
+- **B. Sotomayor**, R. Santiago Montero, I. Martín Llorente, I. Foster. *Capacity Leasing in Cloud Systems using the OpenNebula Engine* (short paper). [CCA08](http://www.cca08.org/), Oct 22–23, 2008, Chicago, USA.
+
+- **B. Sotomayor**, K. Keahey, I. Foster. *Combining Batch Execution and Leasing Using Virtual Machines*. [HPDC 2008](http://www.hpdc.org/), June 23–27, 2008, Boston, MA, USA. [PDF](http://www.mcs.anl.gov/papers/P1491.pdf), [Haizea Project](http://haizea.cs.uchicago.edu/)
+
+- A. Almeida, **B. Sotomayor**, J. Abaitua, D. López-de-Ipiña. *folk2onto: Bridging the gap between social tags and ontologies*. [KRRSW 2008](http://babage.dia.fi.upm.es/krrsw2008/) (part of [ESWC 2008](http://www.eswc2008.org/)), Tenerife, Spain.
+
+- **B. Sotomayor**, K. Keahey, I. Foster, T. Freeman. *Enabling Cost-Effective Resource Leases with Virtual Machines* (short paper). Hot Topics, [HPDC 2007](http://www.isi.edu/hpdc2007/), Monterey Bay, CA, June 27–29, 2007. [PDF](http://haizea.cs.uchicago.edufiles/pubs/Haizea_HPDC2007HotTopics.pdf)
+
+- T. Freeman, K. Keahey, I. Foster, A. Rana, **B. Sotomayor**, F. Wuerthwein. *Division of Labor: Tools for Growth and Scalability of Grids*. [ICSOC 2006](http://www.icsoc.org/), Chicago, USA, Dec 4–7, 2006. [PDF](http://www.nimbusproject.org/files/Division_Of_Labor_ICSOC.pdf)
+
+- **B. Sotomayor**, K. Keahey, I. Foster. *Overhead Matters: A Model for Virtual Resource Management*. [VTDC 2006](http://workspace.globus.org/vtdc06/) (part of [SC ’06](http://sc06.supercomputing.org/)), Tampa, FL, Nov 17, 2006. [PDF](http://www.nimbusproject.org/files/Overhead_Matters_VTDC06.pdf)
+
+- I. Foster, T. Freeman, K. Keahey, D. Scheftner, **B. Sotomayor**, X. Zhang. *Virtual Clusters for Grid Communities*. [CCGrid 2006](http://pdcc.ntu.edu.sg/ccgrid2006/), Singapore, May 16–19, 2006. [PDF](files/pubs/VirtualClusters.pdf)
+
+- Javier García Zubía, Jesús Sanz Martínez, **Borja Sotomayor Basilio**. *A new approach to educational software for logic analysis and design*. [IADAT e2004](http://www.iadat.org/iadate2004/), Bilbao, Spain, July 7–9, 2004. [PDF](files/pubs/IADAT2004_Boole.pdf)
+
+- Javier García Zubía and **Borja Sotomayor Basilio**. *Software for analysis and design of digital systems in education. A comparison between BOOLE-DEUSTO and LogicAid*. [EWME 2004](http://ewme2004.epfl.ch/), Lausanne, Switzerland, April 15–16, 2004. [PDF](files/pubs/EWME_Boole.pdf)
+
+- Javier García Zubía, Jesús Sanz Martínez, **Borja Sotomayor Basilio**. *BOOLE-DEUSTO, la aplicación para sistemas digitales*. [JENUI 2001](http://dmi.uib.es/~jenui/), Palma de Mallorca, June 16–18, 2001. ISBN: 84-7632-657-2. Pgs. 417–420.
+
+## Books
+
+- Borja Sotomayor, Lisa Childers. *Globus® Toolkit 4: Programming Java Services*. December 2005, [Morgan Kaufmann Publishers](http://www.mkp.com/). ISBN: 0123694043.
+
+## PhD Manuscripts 
+
+- **PhD Dissertation**  
+  Borja Sotomayor. *Provisioning Computational Resources Using Virtual Machines and Leases*.  
+  [University of Chicago](http://www.uchicago.edu/), [Department of Computer Science](http://www.cs.uchicago.edu/). Defended July 7, 2010. More details in my [dissertation page](dissertation.qmd)
+
+- **Candidacy Exam Proposal** (i.e., "Dissertation Proposal")  
+  Borja Sotomayor. *Provisioning Computational Resources Using Virtual Machines and Leases. [University of Chicago](http://www.uchicago.edu/), [Department of Computer Science](http://www.cs.uchicago.edu/). Passed on November 25th, 2008. [PDF](files/pubs/candidacy-latest.pdf)
+
+- **Master's Paper**  
+  Borja Sotomayor. *A Resource Management Model for VM-based Virtual Workspaces*. [University of Chicago](http://www.uchicago.edu/), [Department of Computer Science](http://www.cs.uchicago.edu/). Defended January 3rd, 2007. Approved February 23rd, 2007. [PDF](http://haizea.cs.uchicago.edu/pubs/Workspace_Resource_Mgmt_Sotomayor_Masters.pdf)
+
+
