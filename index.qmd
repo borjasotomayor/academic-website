@@ -33,7 +33,9 @@ about:
 ---
 
 ::: {.callout-note}
+::: {style="font-size: 120%;"}
 I am on research leave during the 2025/26 school year, and will be based in New York City during that time. 
+:::
 :::
 
 :::{#hero-heading}
@@ -42,11 +44,7 @@ I am on research leave during the 2025/26 school year, and will be based in New 
 ::: {style="font-size: 120%;"}
 Welcome to my University of Chicago page!
 
-I am a Senior Instructional Professor in the Department of Computer Science, where I [teach](teaching.qmd) intro CS, software development, and computer networks.
-
-I am involved in a number of [other activities](other.qmd) on campus, such as being the faculty advisor to the department's student organizations.
-
-I am not actively involved in research at the moment, but my [research](research.qmd) has primarily focused on resource allocation on distributed systems using virtualization. I have [published](publications.qmd) a number of papers on those subjects and, more recently, I have also published some papers on Computer Science Education.
+{{< include _about.qmd >}}
 
 I also design [t-shirts](tshirts.qmd) and enjoy cooking Spanish food (check out my recipes at [Borja's Tasty Bytes](https://borja.recipes/)).
 :::

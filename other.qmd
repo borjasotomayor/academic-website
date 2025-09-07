@@ -1,6 +1,7 @@
 ---
 title: "Other Activities"
 title-block-banner: false
+toc: false
 ---
 
 Student Activities

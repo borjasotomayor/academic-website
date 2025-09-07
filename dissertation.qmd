@@ -2,6 +2,7 @@
 title: "Dissertation"
 description-meta: "Information about Borja Sotomayor's PhD dissertation, 'Provisioning Computational Resources Using Virtual Machines and Leases'"
 title-block-banner: false
+toc: false
 ---
 
 > *Provisioning Computational Resources Using Virtual Machines and Leases*
@@ -23,7 +24,7 @@ Experimental data
 The following are the files referenced in Appendix A of the dissertation:
 
 - [Scripts to reproduce simulated results](files/dissertation/dissertation-exp.tgz)
-- Experimental data [257 MB]
+- [Experimental data](files/dissertation/raw_data_dissertation.tar) [257 MB]
 - [Scripts and data to reproduce non-simulated results](files/dissertation/dissertation-exp-nonsim.tgz) [10.3 MB]
 
 Errata

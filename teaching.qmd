@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 title-block-banner: false
+toc: false
 ---
 
 I currently teach the following classes:
