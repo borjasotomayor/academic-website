@@ -4,7 +4,7 @@ title-block-banner: false
 toc: false
 ---
 
-I am currently on research leave, working on a study of how Computer Science departments in the US support their teaching activities. I will post more details on this study (including how to participate) sometime during the Autumn of 2025.
+I am currently on research leave, working on a study of how Computer Science departments in the US support their teaching activities. You can find more details about this study, including how to participate, in this page: [Support for Teaching Activities in Computer Science Departments at US R1 Universities](cs-teaching-support-study.qmd)
 
 In the past, my research interests have mostly revolved around virtual machine-based resource provisioning models (where "resource" includes hardware, software, and time) using a leasing abstraction. Most of my research work was relevant to Infrastructure-as-a-Service (IaaS) cloud computing, since IaaS clouds often use virtual machines to provision computational resources and my work deals with how to (1) map heterogeneous user requests (best effort, advance reservations, immediate availability, etc.) to virtual machines and (2) provision those virtual machines efficiently. Since a lot of my work involves writing resource scheduling code, my secondary interests include parallel job scheduling and scheduling performance metrics.
 

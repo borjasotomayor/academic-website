@@ -1,0 +1,56 @@
+---
+title: "Support for Teaching Activities in Computer Science Departments at US R1 Universities"
+title-block-banner: false
+toc: true
+---
+
+I am on research leave during the 2025/26 academic year to conduct a study of how Computer Science departments at research-focused (“R1”) universities in the United States support their teaching activities. My goal is to produce a public report or white paper by the end of 2026 highlighting best practices, challenges, unmet needs, etc. that can be shared with the broader CS community.
+
+::: {.callout-note}
+## Looking for interview subjects!
+::: {style="font-size: 120%;"}
+I am looking for CS faculty members, academic appointees, PhD students, and staff members who are interested in discussing how their department supports their teaching, as well as their general thoughts on teaching support at CS departments. If you’d like to volunteer to participate in this study, you can sign up through our [recruitment form](https://uchicago.co1.qualtrics.com/jfe/form/SV_eETiWUlBpIFq41U). Participation is entirely voluntary, and all responses will be anonymized in reports.
+
+See below for more details on this study.
+:::
+:::
+
+## Scope of the Study
+
+While there is a large body of scholarship focused on how to teach Computer Science to students in primary/secondary/higher education settings, the problem of how to train, mentor, and support CS educators in higher education has received less attention in Computer Science education scholarship. Additionally, while universities often provide university-level training and support on pedagogy, typically through a center for teaching and learning, support within CS departments varies widely and is often reported to be limited or ad-hoc compared to university-level resources.
+
+In this study, I will be surveying how CS departments at R1 universities support their teaching activities, focusing on the following areas:
+
+1. Onboarding of new tenure-line / teaching-track faculty
+2. Ongoing support/mentoring/training of faculty with teaching responsibilities
+3. Assessment of teaching activities, both formative (to improve the instructor’s teaching) and summative (for reappointment/promotion purposes)
+4. Training and management of graduate and undergraduate TAs/graders
+5. Support/mentoring/training of PhD students with teaching responsibilities (particularly those interested in teaching-track careers)
+
+The specific questions I hope to answer are the following:
+
+1. How do Computer Science departments at R1 universities structure the support they provide for teaching, particularly for faculty onboarding, ongoing mentoring, evaluation of teaching, and support/mentoring for teaching assistants and PhD students?
+2. What challenges and unmet needs do departments face in providing effective support for teaching, and how do these challenges differ across faculty roles (tenure-line vs. teaching-track) and instructional staff (graduate/undergraduate TAs, PhD students)?
+3. What practices are perceived as most effective in fostering high-quality teaching within CS departments, and which of these practices could be shared as models or best practices for the broader CS community?
+
+This study is UChicago IRB study number IRB25-1364 (PI: Borja Sotomayor, [borja@uchicago.edu](mailto:borja@uchicago.edu)).
+
+## Participating in the Study
+
+I am looking for CS faculty members, academic appointees, PhD students, and staff members who are interested in discussing any of the above topics (via 60-90 minute interviews or focus groups, either remotely or in-person at your institution). 
+
+To participate in the study, you must be 18+ years old, be affiliated with a Computer Science department at a research-focused (“R1”) university in the US, and fall into one of the following categories:
+
+1. A faculty member, other academic appointee, or staff member with knowledge and/or supervisory responsibilities over one or more of the following:
+
+    * Onboarding of new tenure-line / teaching-track faculty
+    * Ongoing support/mentoring/training of faculty with teaching responsibilities
+    * Assessment of teaching activities, both formative (to improve the instructor’s teaching) and summative (for reappointment/promotion purposes)
+    * Training and management of graduate and undergraduate TAs/graders
+    * Support/mentoring/training of PhD students with teaching responsibilities (particularly those interested in teaching-track careers) 
+
+2. A faculty member or other academic appointee with teaching responsibilities, who has held faculty/academic appointments for no longer than five years.
+
+3. A PhD student with teaching responsibilities, including either TA or instructor roles.
+
+If you’d like to volunteer to participate in this study please fill out our [recruitment form](https://uchicago.co1.qualtrics.com/jfe/form/SV_eETiWUlBpIFq41U). Participation is entirely voluntary, and all responses will be anonymized in reports.
