@@ -36,7 +36,7 @@ about:
 ::: {style="font-size: 120%;"}
 I am on research leave during the 2025/26 school year, and will be based in New York City during that time. 
 
-During my leave, I am conducting a study of how Computer Science departments at research-focused (“R1”) universities in the United States support their teaching activities. I am looking for CS faculty members, academic appointees, PhD students, and staff members who are interested in discussing how their department supports their teaching, as well as their general thoughts on teaching support at CS departments. If you’d like to volunteer to participate in this study, you can sign up through our [recruitment form](https://uchicago.co1.qualtrics.com/jfe/form/SV_eETiWUlBpIFq41U). Participation is entirely voluntary, and all responses will be anonymized in reports.
+During my leave, I am conducting a study of how Computer Science departments at research-focused (“R1”) universities in the United States support their teaching activities. **I am looking for CS faculty members, academic appointees, PhD students, and staff members who are interested in discussing how their department supports their teaching, as well as their general thoughts on teaching support at CS departments**. If you’d like to volunteer to participate in this study, you can sign up through our [recruitment form](https://uchicago.co1.qualtrics.com/jfe/form/SV_eETiWUlBpIFq41U). Participation is entirely voluntary, and all responses will be anonymized in reports.
 
 You can find more details about the study in this page: [Support for Teaching Activities in Computer Science Departments at US R1 Universities](cs-teaching-support-study.qmd)
 :::

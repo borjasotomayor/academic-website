@@ -2,6 +2,6 @@ I am a Senior Instructional Professor in the Department of Computer Science, whe
 
 I am involved in a number of [other activities](other.qmd) on campus, such as being the faculty advisor to the department's student organizations.
 
-I am currently on research leave, working on a study of how Computer Science departments in the US support their teaching activities. I will post more details on this study (including how to participate) sometime during the Autumn of 2025.
+I am currently on research leave, working on a study of how Computer Science departments in the US support their teaching activities. You can find more details about the study in this page: [Support for Teaching Activities in Computer Science Departments at US R1 Universities](cs-teaching-support-study.qmd)
 
 My past [research](research.qmd) has primarily focused on resource allocation on distributed systems using virtualization. I have [published](publications.qmd) a number of papers on those subjects and, more recently, I have also published some papers on Computer Science Education.
