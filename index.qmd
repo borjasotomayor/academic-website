@@ -15,7 +15,7 @@ about:
   links:
     - icon: envelope
       text: Contact
-      href: contact.qmd
+      href: /~borja/contact.html
     - icon: github
       text: GitHub
       href: https://github.com/borjasotomayor
