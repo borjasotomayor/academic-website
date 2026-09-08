@@ -29,8 +29,6 @@ website:
         href: research.qmd
       - text: Publications
         href: publications.qmd
-      - text: Other Activities
-        href: other.qmd
       - text: Contact
         href: contact.qmd       
 
