@@ -4,7 +4,7 @@ title-block-banner: false
 toc: true
 ---
 
-I am on research leave during the 2025/26 academic year to conduct a study of how Computer Science departments at research-focused (“R1”) universities in the United States support their teaching activities. My goal is to produce a public report or white paper by the end of 2026 highlighting best practices, challenges, unmet needs, etc. that can be shared with the broader CS community.
+I am conducting a study of how Computer Science departments at research-focused (“R1”) universities in the United States support their teaching activities, which I began during a research leave in the 2025/26 academic year. I am currently working on producing a public white paper highlighting best practices, challenges, unmet needs, etc. that have surfaced during the study so far. Our goal is for the white paper to be ready in time for SIGCSE '27.
 
 ::: {.callout-note}
 ## Looking for interview subjects!
@@ -19,7 +19,7 @@ See below for more details on this study.
 
 While there is a large body of scholarship focused on how to teach Computer Science to students in primary/secondary/higher education settings, the problem of how to train, mentor, and support CS educators in higher education has received less attention in Computer Science education scholarship. Additionally, while universities often provide university-level training and support on pedagogy, typically through a center for teaching and learning, support within CS departments varies widely and is often reported to be limited or ad-hoc compared to university-level resources.
 
-In this study, I will be surveying how CS departments at R1 universities support their teaching activities, focusing on the following areas:
+In this study, I have been surveying how CS departments at R1 universities support their teaching activities, focusing on the following areas:
 
 1. Onboarding of new tenure-line / teaching-track faculty
 2. Ongoing support/mentoring/training of faculty with teaching responsibilities

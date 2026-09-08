@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: build
+  render:
+    - "*.qmd"
+    - "!CLAUDE.md"
 
 # Meta
 description-meta: "Borja Sotomayor's Academic Website"
@@ -18,6 +21,8 @@ website:
 #        href: index.qmd
       - text: About me
         href: about.qmd
+      - text: Director of Teaching and Learning
+        href: teaching-and-learning.qmd
       - text: Teaching
         href: teaching.qmd
       - text: Research
@@ -26,8 +31,6 @@ website:
         href: publications.qmd
       - text: Other Activities
         href: other.qmd
-      - text: T-Shirts
-        href: tshirts.qmd
       - text: Contact
         href: contact.qmd       
 
@@ -93,5 +96,4 @@ format:
     link-external-newwindow: true
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/people\.cs\.uchicago\.edu\/~borja'
-    include-in-header: "files/includes/_academic.qmd"
 

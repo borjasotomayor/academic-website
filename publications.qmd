@@ -28,7 +28,7 @@ See citations and other information on my [Google Scholar page](http://bit.ly/go
 
 - A. Almeida, **B. Sotomayor**, J. Abaitua, D. López-de-Ipiña. *folk2onto: Bridging the gap between social tags and ontologies*. [KRRSW 2008](http://babage.dia.fi.upm.es/krrsw2008/) (part of [ESWC 2008](http://www.eswc2008.org/)), Tenerife, Spain.
 
-- **B. Sotomayor**, K. Keahey, I. Foster, T. Freeman. *Enabling Cost-Effective Resource Leases with Virtual Machines* (short paper). Hot Topics, [HPDC 2007](http://www.isi.edu/hpdc2007/), Monterey Bay, CA, June 27–29, 2007. [PDF](http://haizea.cs.uchicago.edufiles/pubs/Haizea_HPDC2007HotTopics.pdf)
+- **B. Sotomayor**, K. Keahey, I. Foster, T. Freeman. *Enabling Cost-Effective Resource Leases with Virtual Machines* (short paper). Hot Topics, [HPDC 2007](http://www.isi.edu/hpdc2007/), Monterey Bay, CA, June 27–29, 2007. [PDF](http://haizea.cs.uchicago.edu/pubs/Haizea_HPDC2007HotTopics.pdf)
 
 - T. Freeman, K. Keahey, I. Foster, A. Rana, **B. Sotomayor**, F. Wuerthwein. *Division of Labor: Tools for Growth and Scalability of Grids*. [ICSOC 2006](http://www.icsoc.org/), Chicago, USA, Dec 4–7, 2006. [PDF](http://www.nimbusproject.org/files/Division_Of_Labor_ICSOC.pdf)
 
@@ -53,7 +53,7 @@ See citations and other information on my [Google Scholar page](http://bit.ly/go
   [University of Chicago](http://www.uchicago.edu/), [Department of Computer Science](http://www.cs.uchicago.edu/). Defended July 7, 2010. More details in my [dissertation page](dissertation.qmd)
 
 - **Candidacy Exam Proposal** (i.e., "Dissertation Proposal")  
-  Borja Sotomayor. *Provisioning Computational Resources Using Virtual Machines and Leases. [University of Chicago](http://www.uchicago.edu/), [Department of Computer Science](http://www.cs.uchicago.edu/). Passed on November 25th, 2008. [PDF](files/pubs/candidacy-latest.pdf)
+  Borja Sotomayor. *Provisioning Computational Resources Using Virtual Machines and Leases*. [University of Chicago](http://www.uchicago.edu/), [Department of Computer Science](http://www.cs.uchicago.edu/). Passed on November 25th, 2008. [PDF](files/pubs/candidacy-latest.pdf)
 
 - **Master's Paper**  
   Borja Sotomayor. *A Resource Management Model for VM-based Virtual Workspaces*. [University of Chicago](http://www.uchicago.edu/), [Department of Computer Science](http://www.cs.uchicago.edu/). Defended January 3rd, 2007. Approved February 23rd, 2007. [PDF](http://haizea.cs.uchicago.edu/pubs/Workspace_Resource_Mgmt_Sotomayor_Masters.pdf)

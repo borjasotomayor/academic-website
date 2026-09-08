@@ -9,7 +9,7 @@ I currently teach the following classes:
 
 **CMSC 14200 - Introduction to Computer Science II** (2023 -- ...)
 
-This courses is the second course of the CS department's [new CS intro sequence launched in 2022](https://cs.uchicago.edu/academics/undergraduate/new-introductory-computer-science-sequence/). It is a direct continuation of CMSC 14100, and covers more advanced concepts in computer science and Python programming, including types, advanced tree data structures, graphs, and functional programming. In the second half of the quarter, students learn about various aspects of the software development lifecycle, with an emphasis on software design, and work in teams of four students on a collaborative software project with multiple milestones.
+This course is the second course of the CS department's [new CS intro sequence launched in 2022](https://cs.uchicago.edu/academics/undergraduate/new-introductory-computer-science-sequence/). It is a direct continuation of CMSC 14100, and covers more advanced concepts in computer science and Python programming, including types, advanced tree data structures, graphs, and functional programming. In the second half of the quarter, students learn about various aspects of the software development lifecycle, with an emphasis on software design, and work in teams of four students on a collaborative software project with multiple milestones.
 
 **CMSC 23320 - Foundations of Computer Networks** (2011 -- ...)
 
@@ -21,7 +21,7 @@ For more details, see the [CMSC 23320 website](http://uchicago-cs.github.io/cmsc
 
 **CMSC 22000 - Introduction to Software Development** (2018 -- ...)
 
-Developing a software system (e.g., an application, a web server, an operating system, etc.) requires much more than just knowing how to program. Software development encompasses multiple activities, such as systems design, implementation, testing, debugging, deployment, documentation, and maintenance, all weaved together by following a specific methodology. Not just that, software development is a highly collaborative activity, where certain soft skills, like effective communication and the ability to give/receive feedback, can be key to the success of a software project.
+Developing a software system (e.g., an application, a web server, an operating system, etc.) requires much more than just knowing how to program. Software development encompasses multiple activities, such as systems design, implementation, testing, debugging, deployment, documentation, and maintenance, all woven together by following a specific methodology. Not just that, software development is a highly collaborative activity, where certain soft skills, like effective communication and the ability to give/receive feedback, can be key to the success of a software project.
 
 This class bridges the gap between knowing how to program and knowing how to develop software: it covers fundamental concepts and skills in software development, providing a solid foundation before students move on to 200-level classes that require developing complex software systems. The class covers foundational topics in software development in lectures, but also includes hands-on labs, guest lectures from industry speakers, and a collaborative quarter-long project, where the entire class, divided into teams with specific responsibilities, works on developing a new feature for an existing software system.
 

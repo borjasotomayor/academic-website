@@ -21,4 +21,4 @@ Make sure to check them out; they run amazing events throughout the year!
 Programming Contests
 --------------------
 
-I was previously involved in the [ACM International Collegiate Programming Contest](http://icpc.baylor.edu/) (ICPC), and was the coach of the University of Chicago's ICPC teams from 2007 to 2019.
+I was previously involved in the [ACM International Collegiate Programming Contest](http://icpc.global/) (ICPC), and was the coach of the University of Chicago's ICPC teams from 2007 to 2019.

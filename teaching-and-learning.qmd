@@ -1,0 +1,12 @@
+---
+title: "Director of Teaching and Learning"
+description-meta: "Borja Sotomayor, Director of Teaching and Learning in the Department of Computer Science at the University of Chicago"
+title-block-banner: false
+toc: false
+---
+
+I am the Director of Teaching and Learning in the Department of Computer Science at the University of Chicago.
+
+I stepped into this role recently, and will have more details available soon. In a nutshell, my role is to support anyone in the department with teaching responsibilities, from the tenure-line faculty to the undergraduate TAs.
+
+To better inform what kinds of support we should offer in our department, I have been running a study on how Computer Science departments in the US support their teaching activities: [Support for Teaching Activities in Computer Science Departments at US R1 Universities](cs-teaching-support-study.qmd). The study is still recruiting interview subjects, and that page has details on how to participate.
